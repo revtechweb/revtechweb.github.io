@@ -1,0 +1,21 @@
+{
+  "main.css": "./static/css/main.dd1d5cd2.chunk.css",
+  "main.js": "./static/js/main.91c58e76.chunk.js",
+  "main.js.map": "./static/js/main.91c58e76.chunk.js.map",
+  "static/js/1.cf7af9b0.chunk.js": "./static/js/1.cf7af9b0.chunk.js",
+  "static/js/1.cf7af9b0.chunk.js.map": "./static/js/1.cf7af9b0.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
+  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
+  "static/media/logo.png": "./static/media/logo.65cb22c0.png",
+  "static/media/aktienow.png": "./static/media/aktienow.70e5c9f5.png",
+  "static/media/hexagon.png": "./static/media/hexagon.4c8aae6c.png",
+  "static/media/vivo.svg": "./static/media/vivo.9570a011.svg",
+  "static/media/hypnobox.png": "./static/media/hypnobox.1705ad82.png",
+  "static/media/logo_revtechweb_horizontal_branco.png": "./static/media/logo_revtechweb_horizontal_branco.caef48f8.png",
+  "static/media/logo_revtechweb_vertical_branco.png": "./static/media/logo_revtechweb_vertical_branco.fd21133c.png",
+  "static/media/background.png": "./static/media/background.49d7a1ec.png",
+  "static/css/main.dd1d5cd2.chunk.css.map": "./static/css/main.dd1d5cd2.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.ea9cefb9efb610d66fd5aa568d9af8de.js": "./precache-manifest.ea9cefb9efb610d66fd5aa568d9af8de.js",
+  "service-worker.js": "./service-worker.js"
+}
