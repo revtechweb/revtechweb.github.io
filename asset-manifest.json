@@ -1,9 +1,9 @@
 {
-  "main.css": "./static/css/main.664c4c38.chunk.css",
-  "main.js": "./static/js/main.445f741c.chunk.js",
-  "main.js.map": "./static/js/main.445f741c.chunk.js.map",
-  "static/js/1.412cc4c0.chunk.js": "./static/js/1.412cc4c0.chunk.js",
-  "static/js/1.412cc4c0.chunk.js.map": "./static/js/1.412cc4c0.chunk.js.map",
+  "main.css": "./static/css/main.cc509e9a.chunk.css",
+  "main.js": "./static/js/main.5b1f5a9d.chunk.js",
+  "main.js.map": "./static/js/main.5b1f5a9d.chunk.js.map",
+  "static/js/1.dbd2669e.chunk.js": "./static/js/1.dbd2669e.chunk.js",
+  "static/js/1.dbd2669e.chunk.js.map": "./static/js/1.dbd2669e.chunk.js.map",
   "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
   "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
   "static/media/logo.png": "./static/media/logo.65cb22c0.png",
@@ -14,8 +14,8 @@
   "static/media/logo_revtechweb_horizontal_branco.png": "./static/media/logo_revtechweb_horizontal_branco.caef48f8.png",
   "static/media/logo_revtechweb_vertical_branco.png": "./static/media/logo_revtechweb_vertical_branco.fd21133c.png",
   "static/media/background.png": "./static/media/background.49d7a1ec.png",
-  "static/css/main.664c4c38.chunk.css.map": "./static/css/main.664c4c38.chunk.css.map",
+  "static/css/main.cc509e9a.chunk.css.map": "./static/css/main.cc509e9a.chunk.css.map",
   "index.html": "./index.html",
-  "precache-manifest.be05e70622684cc2f512016b90c84746.js": "./precache-manifest.be05e70622684cc2f512016b90c84746.js",
+  "precache-manifest.c0bb764c8534349cf26a6b9295c8b1e4.js": "./precache-manifest.c0bb764c8534349cf26a6b9295c8b1e4.js",
   "service-worker.js": "./service-worker.js"
 }
