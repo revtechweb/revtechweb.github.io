@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "./static/media/aktienow.70e5c9f5.png"
   },
   {
-    "revision": "de2c2791f817b7b1f3a8",
+    "revision": "42c583307bc9debeb080",
     "url": "./static/css/main.cc509e9a.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "./static/media/background.49d7a1ec.png"
   },
   {
-    "revision": "de2c2791f817b7b1f3a8",
-    "url": "./static/js/main.de2c2791.chunk.js"
+    "revision": "42c583307bc9debeb080",
+    "url": "./static/js/main.42c58330.chunk.js"
   },
   {
     "revision": "4c8aae6ca730b583eb0417419dbbaf06",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "./static/media/logo_revtechweb_vertical_branco.fd21133c.png"
   },
   {
-    "revision": "f1e74d756198bfaa55ace48bcfdecd90",
+    "revision": "134a65e7f1530589f973d28c062c5185",
     "url": "./index.html"
   }
 ];
