@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "70e5c9f557ef3ff1246e678e898869f5",
-    "url": "./static/media/aktienow.70e5c9f5.png"
+    "revision": "49d7a1ecf5af7dd6acb311d747a491fb",
+    "url": "./static/media/background.49d7a1ec.png"
   },
   {
-    "revision": "913dcf999003d3c997ed",
-    "url": "./static/css/main.cc509e9a.chunk.css"
+    "revision": "18b60b4f1a237a4242ef",
+    "url": "./static/css/main.40500ae7.chunk.css"
   },
   {
-    "revision": "e6795c53c084441ecd2a",
-    "url": "./static/js/1.e6795c53.chunk.js"
+    "revision": "a86d9aeb77d9943ccce8",
+    "url": "./static/js/1.a86d9aeb.chunk.js"
   },
   {
     "revision": "4a686d48d5a089750c49",
@@ -20,12 +20,20 @@ self.__precacheManifest = [
     "url": "./static/media/logo.65cb22c0.png"
   },
   {
-    "revision": "49d7a1ecf5af7dd6acb311d747a491fb",
-    "url": "./static/media/background.49d7a1ec.png"
+    "revision": "ce3c004451bd5cd95e7e296ddffa31a4",
+    "url": "./static/media/brasil_flag.ce3c0044.svg"
   },
   {
-    "revision": "913dcf999003d3c997ed",
-    "url": "./static/js/main.913dcf99.chunk.js"
+    "revision": "26396ad7b41b72f1fddc95aabf104b04",
+    "url": "./static/media/usa_flag.26396ad7.svg"
+  },
+  {
+    "revision": "18b60b4f1a237a4242ef",
+    "url": "./static/js/main.18b60b4f.chunk.js"
+  },
+  {
+    "revision": "70e5c9f557ef3ff1246e678e898869f5",
+    "url": "./static/media/aktienow.70e5c9f5.png"
   },
   {
     "revision": "4c8aae6ca730b583eb0417419dbbaf06",
@@ -48,7 +56,7 @@ self.__precacheManifest = [
     "url": "./static/media/logo_revtechweb_vertical_branco.fd21133c.png"
   },
   {
-    "revision": "bdf6190a299491d292f8ddb3dccaa122",
+    "revision": "d9283fe41f16d351dd3c3254bd43171f",
     "url": "./index.html"
   }
 ];
